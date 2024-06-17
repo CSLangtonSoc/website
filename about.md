@@ -11,6 +11,6 @@ Areas of research and interest in this society involve cybersecurity, programmin
 
 ### Structure
 
-- Form time (undecided)
-- Wednesday Period 5 session
+- Tuesday & Wednesday Form Time
+- Wednesday Period 5
 - Lectures and talks (sporadic)
