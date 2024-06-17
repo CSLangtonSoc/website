@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }} - Langton CS Society</title>
+    <link rel="stylesheet" href="{{ "/assets/css/index.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet"
+    />
+    <meta name="theme-color" content="#00ff00">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/assets/img/logo-light.png">
+    <meta name="description" content="The official Simon Langton CS Society website." />
+    <meta property="og:url" content="https://langtoncompsci.tech/" />
+    <meta property="og:title" content="Langton CS Society" />
+    <meta property="og:description" content="The official Simon Langton CS Society website." />
+    <script src="{{ "/assets/js/index.js" | relative_url }}" defer></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="/" class="logo">
+          <img class="logo" src="{{ "/assets/img/logo-light.png" | relative_url }}" />
+        </a>
+        <div class="menu-toggle" id="mobile-menu">
+          <span class="bar"></span>
+          <span class="bar"></span>
+          <span class="bar"></span>
+        </div>
+        <ul class="menu" id="menu">
+          <li><a class="navlink" href="/about">About</a></li>
+          <li><a class="navlink" href="/join">Join</a></li>
+          <li><a class="navlink" href="/activities">Activities</a></li>          
+          <li><a class="navlink" href="/resources">Resources</a></li>
+          <li><a class="navlink" href="/contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+  </body>
+</html>
