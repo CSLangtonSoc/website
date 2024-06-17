@@ -26,7 +26,7 @@ Projects that students can complete to improve knowledge or uni applications.
 - [Advent Of Code](https://adventofcode.com) - A coding challenge done every year in December with a new task every day and increasing difficulty.
 - [Project Euler](https://projecteuler.net/) - A series of increasingly hard maths problems that can only be solved using programming knowledge.
 - [Python Challenges (Christ Church College, Oxford)](https://www.chch.ox.ac.uk/college/outreach/python-challenges) - A series of questions designed to stretch year 12 students’ knowledge beyond their school curriculum.
-- [BBC Micro:bit](https://microbit.org/) - A mini computer (the school already has access to) that can be used for a series of different mini projects that relate to and go beyond the specification
+- [BBC Micro:bit](https://microbit.org/) - A mini computer (the school already has access to) that can be used for a series of different mini projects that relate to and go beyond the specification.
 - [Royal Institution Masterclasses](https://www.rigb.org/education/masterclasses) - masterclasses in maths, engineering and CS.
 - [Cyber Discovery](http://joincyberdiscovery.com/) - an extracurricular cyber security learning programme for Y10–13 students from across England.
 
@@ -42,6 +42,6 @@ National competitions that students can get involved with.
 Further reading on CS.
 
 - [Computer Science Unplugged](https://www.csunplugged.org/) - A CS curriculum designed for pre-uni students
-- [CS4FN](http://www.cs4fn.org/) - magazine about CS aimed at students
-- [Making sense of AI](https://atozofai.withgoogle.com/intl/en-US/) - a simple A-Z guide to help explain AI, how it works and its impacts on the world.
-- [The A-Z of AI, Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use.
+- [CS4FN](http://www.cs4fn.org/) - Magazine about CS aimed at students.
+- [Making sense of AI](https://atozofai.withgoogle.com/intl/en-US/) - A simple A-Z guide to help explain AI, how it works and its impacts on the world.
+- [The A-Z of AI, Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Represents a universally applicable attitude and skill set everyone, not just computer scientists, would be eager to learn and use.
