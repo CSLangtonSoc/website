@@ -29,6 +29,7 @@ Projects that students can complete to improve knowledge or uni applications.
 - [BBC Micro:bit](https://microbit.org/) - A mini computer (the school already has access to) that can be used for a series of different mini projects that relate to and go beyond the specification.
 - [Royal Institution Masterclasses](https://www.rigb.org/education/masterclasses) - masterclasses in maths, engineering and CS.
 - [Cyber Discovery](http://joincyberdiscovery.com/) - an extracurricular cyber security learning programme for Y10–13 students from across England.
+- [LeetCode](https://leetcode.com/) - an online platform for coding interview preparation whice provides coding and algorithmic problems intended for users to practice coding.
 
 ### Competitions
 

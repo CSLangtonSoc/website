@@ -21,13 +21,10 @@
 title: Simon Langton CS Society
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The official Simon Langton CS Society website.
+ The official Simon Langton CS Society website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cslangtonsoc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "https://langtoncompsci.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: CSLangtonSoc
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
