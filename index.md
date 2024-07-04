@@ -29,5 +29,6 @@ Welcome to the Simon Langton CS Society website! This site is student-run and do
 - [Join](/join) - join the society
 - [Activities](/activities) - find out about our activities
 - [Resources](/resources) - learn more about important CS resources
+- [Sites](https://s.langtoncompsci.tech) - view websites made by students from the society
 - [Contact](/contact) - reach out to us for questions and suggestions
 - [GitHub](https://github.com/cslangtonsoc) - view the source code!
